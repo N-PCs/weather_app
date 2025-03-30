@@ -3,7 +3,7 @@ Created by Neel Pandey @N-PCs .
 
 Utilises CSS ,HTML,Js.
 
-Utilises concept of API to search a datbase.
+Utilises concept of API to search a database.
 
 Simple yet efficient weather searching app!
 
